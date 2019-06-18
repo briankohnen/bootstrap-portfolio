@@ -1,4 +1,6 @@
-.portfolioSection {
-    background: lightskyblue;
-    padding: 5px;
+
+
+.btnMe {
+    position: absolute;
+    right: 25px; 
 }
