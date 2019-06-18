@@ -1,0 +1,9 @@
+.imageLogo {
+    padding: 1px;
+    background: #439eff;
+    position: absolute;
+    bottom: 25px;
+    width: 200px;
+    border: 1px solid black;
+    color: white;
+}
